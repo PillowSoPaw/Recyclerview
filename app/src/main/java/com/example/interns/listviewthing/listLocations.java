@@ -7,7 +7,7 @@ import android.view.MenuItem;
 
 
 public class listLocations extends ActionBarActivity {
-
+//test
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
